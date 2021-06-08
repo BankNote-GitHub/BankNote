@@ -30,7 +30,9 @@ http://banknote.financial/
 ### BankNote Investing?
 
 - BankNote's early age, swift transaction speeds, and easy exchanging/purchasing options make it an appealing investment opportunity for first-time OR seasoned investors.
+
 - Unlike other cryptocurrencies that make you jump through hoops to purchase or exchange their coin, BankNote and our Team will always upkeep the simplicity of purchasing or exchanging BankNote Coins FIRST AND FOREMOST.
+
 - BankNote was created with the standards of being community based and run, as well as always allowing the BankNote communtiy the ability to implement or use BankNote coins for outside projects, marketplaces, transactions, etc. With that being said, there is no saying or stopping where BankNote could take us or be used for in the future! Early investors help drive BankNote to places they'd like to see it go!
 
 
@@ -40,9 +42,9 @@ http://banknote.financial/
 
 - A vast majority of new coins are premined meaning the Coin's creator/team own an overwhelming amount of the coins total supply. In other words, their value can be manipulated in an unfair way.
 
-- There are no options to mine some new cryptocurrencies, or their coins do not function based off of miner's work. You can not mine these coins, so the only ways of obtaining it are through purchasing it or crypto exchanges.
+- There are no options to mine certain new cryptocurrencies, or their coins do not function based off of miner's work. You can not mine these coins, so the only ways of obtaining it are through purchasing it or crypto exchanges.
 
-- Most established cryptocurrencies, such as BitCoin, have already gone through a number of halving processes. This leads to an extremely low reward of coins per block mined on their blockchain. Additionally, the mining difficulty for these established coins is too intense for most common computers.
+- Most established cryptocurrencies, such as Bitcoin, have already gone through a number of halving processes. This leads to an extremely low reward of coins per block mined on their blockchain. Additionally, the mining difficulty for these established coins is too intense for most common computers.
 
 - Mining can come off as a difficult process to get started with cryptocurrencies. Issues can range from difficult or confusing software interfaces to computer incompatibility.
 
