@@ -1,3 +1,3 @@
 # BankNote
 
-![Logo](https://user-images.githubusercontent.com/85009962/120067926-18241f00-c04c-11eb-9c08-b0cb69a80b17.PNG)
+![Logo](![logo-s2-white2x](https://user-images.githubusercontent.com/85009962/121129893-3108ad80-c860-11eb-9153-52b648201791.png))
